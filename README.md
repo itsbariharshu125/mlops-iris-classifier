@@ -12,5 +12,9 @@ python src/train.py
 Change from main branch
 =======
 Change from conflict-demo-b branch
+<<<<<<< HEAD
 >>>>>>> conflict-demo-b
 Change from main branch
+=======
+Change from conflict-demo-b branch
+>>>>>>> conflict-demo-b
