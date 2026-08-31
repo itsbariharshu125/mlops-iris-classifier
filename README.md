@@ -8,4 +8,9 @@ workflows in an MLOps context.
 ```bash
 pip install -r requirements.txt
 python src/train.py
+<<<<<<< HEAD
+Change from main branch
+=======
+Change from conflict-demo-b branch
+>>>>>>> conflict-demo-b
 Change from main branch
