@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.pyre/
+
+# Virtual environments
+.venv/
+.venv-mlflow/
+
+# MLflow
+mlruns/
+mlartifacts/
+mlflow.db
+confusion_matrix_*.png
+
+# Local tooling/cache
+.ipynb_checkpoints/
+.DS_Store
